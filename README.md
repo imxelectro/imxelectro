@@ -2,14 +2,13 @@
 
 <h2 align="center"> Computer Engineer & Blockchain Developer </h2>
 
-<h4 align="center"> I'm working on 3D WebDesign , Game Development , Angular Framework , Firebase , Rust , AI Systems, Neural Network </h4>
-
-<p><img align="right" src="https://github.com/imxelectro/imxelectro/blob/master/imxelectro.gif" alt="imxelectro" /></p>
+<h5 align="center"> I'm working on 3D WebDesign , Game Development , Angular Framework , Firebase , Rust , AI Systems, Neural Network </h5>
+<br>
+<p><img align="center" src="https://github.com/imxelectro/imxelectro/blob/master/imxelectro.gif" alt="imxelectro" /></p>
 
 <br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h4 align="center">Languages and Tools</h4>
+<p align="center">
 <a href="https://angular.io/"
     target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/angularjs/angularjs-plain.svg" alt="angular" width="40"
