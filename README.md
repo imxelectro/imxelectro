@@ -1,4 +1,4 @@
-<h1 align="center"> Hi , I'm x Electro </h1>
+<h1 align="center"> Hi , ImxElectro </h1>
 
 <h2 align="center"> Computer Engineer & Blockchain Developer </h2>
 
