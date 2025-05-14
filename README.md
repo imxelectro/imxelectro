@@ -1,8 +1,8 @@
 <h1 align="center"> Hi , ImxElectro </h1>
 
-<h2 align="center"> Computer Engineer & Blockchain Developer </h2>
+<h2 align="center"> Computer Engineer</h2>
 
-<h5 align="center"> I'm working on 3D WebDesign , Game Development , Angular Framework , Firebase , Rust , AI Systems, Neural Network </h5>
+<h5 align="center"> I'm working on 3D WebDesign , Game Development , Angular Framework , Firebase , AI Systems, Neural Network </h5>
 <br>
 <p><img align="center" src="https://github.com/imxelectro/imxelectro/blob/master/imxelectro.gif" alt="imxelectro" /></p>
 
